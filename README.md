@@ -1,5 +1,5 @@
-<h2>Day 1</h2>
+<h3>Day 1</h3>
 - [Band Name Generator]()
 
-<h2>Day 2</h2>
+<h3>Day 2</h3>
 - []()
