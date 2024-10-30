@@ -2,4 +2,4 @@
 - [Band Name Generator](https://github.com/LuiyTheNinja/100DayPython_Day01/tree/main)
 
 <h3>Day 2</h3>
-- []()
+- [Tip Calculator](https://github.com/LuiyTheNinja/100DayPython_Day02TipCalculator)
