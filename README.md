@@ -5,6 +5,7 @@
 - [Tip Calculator](https://github.com/LuiyTheNinja/100DayPython_Day02TipCalculator)
 
 <h3>Day 3</h3>
+- [Text Adventure Game](https://github.com/LuiyTheNinja/100DaysPython_Day03TextBasedAdventureGame-)
 
 <h3>Day 4</h3>
 
